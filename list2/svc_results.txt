@@ -1,0 +1,200 @@
+sigmoid, C=2, gamma=scale, score=0.411
+sigmoid, C=5, gamma=scale, score=0.411
+sigmoid, C=7, gamma=scale, score=0.411
+sigmoid, C=10, gamma=scale, score=0.411
+sigmoid, C=15, gamma=scale, score=0.411
+sigmoid, C=20, gamma=scale, score=0.411
+sigmoid, C=1, gamma=scale, score=0.442
+sigmoid, C=0.5, gamma=scale, score=0.516
+poly, C=15, deg=8, gamma=scale, score=0.537
+poly, C=20, deg=8, gamma=scale, score=0.547
+poly, C=10, deg=8, gamma=scale, score=0.558
+poly, C=7, deg=8, gamma=scale, score=0.568
+poly, C=1, deg=8, gamma=scale, score=0.579
+poly, C=5, deg=8, gamma=scale, score=0.579
+poly, C=7, deg=7, gamma=scale, score=0.579
+sigmoid, C=10, gamma=auto, score=0.579
+sigmoid, C=20, gamma=auto, score=0.579
+sigmoid, C=15, gamma=auto, score=0.589
+poly, C=2, deg=8, gamma=scale, score=0.600
+poly, C=20, deg=7, gamma=scale, score=0.600
+poly, C=15, deg=7, gamma=scale, score=0.611
+sigmoid, C=7, gamma=auto, score=0.621
+rbf, C=15, gamma=auto, score=0.632
+poly, C=10, deg=7, gamma=scale, score=0.642
+poly, C=2, deg=4, gamma=scale, score=0.653
+poly, C=5, deg=5, gamma=scale, score=0.653
+sigmoid, C=5, gamma=auto, score=0.653
+poly, C=7, deg=5, gamma=scale, score=0.663
+poly, C=7, deg=6, gamma=scale, score=0.663
+poly, C=10, deg=6, gamma=scale, score=0.663
+
+linear, C=0.1, gamma=scale, score=0.674
+linear, C=0.1, gamma=auto, score=0.674
+linear, C=0.5, gamma=scale, score=0.674
+linear, C=0.5, gamma=auto, score=0.674
+linear, C=1, gamma=scale, score=0.674
+linear, C=1, gamma=auto, score=0.674
+linear, C=2, gamma=scale, score=0.674
+linear, C=2, gamma=auto, score=0.674
+linear, C=5, gamma=scale, score=0.674
+linear, C=5, gamma=auto, score=0.674
+linear, C=7, gamma=scale, score=0.674
+linear, C=7, gamma=auto, score=0.674
+linear, C=10, gamma=scale, score=0.674
+linear, C=10, gamma=auto, score=0.674
+linear, C=15, gamma=scale, score=0.674
+linear, C=15, gamma=auto, score=0.674
+linear, C=20, gamma=scale, score=0.674
+linear, C=20, gamma=auto, score=0.674
+poly, C=0.1, deg=1, gamma=scale, score=0.674
+poly, C=0.1, deg=2, gamma=scale, score=0.674
+poly, C=0.1, deg=3, gamma=scale, score=0.674
+poly, C=0.1, deg=4, gamma=scale, score=0.674
+poly, C=0.1, deg=5, gamma=scale, score=0.674
+poly, C=0.1, deg=6, gamma=scale, score=0.674
+poly, C=0.1, deg=7, gamma=scale, score=0.674
+poly, C=0.1, deg=8, gamma=scale, score=0.674
+poly, C=0.1, deg=1, gamma=auto, score=0.674
+poly, C=0.1, deg=2, gamma=auto, score=0.674
+poly, C=0.1, deg=3, gamma=auto, score=0.674
+poly, C=0.1, deg=4, gamma=auto, score=0.674
+poly, C=0.1, deg=5, gamma=auto, score=0.674
+poly, C=0.1, deg=6, gamma=auto, score=0.674
+poly, C=0.1, deg=7, gamma=auto, score=0.674
+poly, C=0.1, deg=8, gamma=auto, score=0.674
+poly, C=0.5, deg=1, gamma=scale, score=0.674
+poly, C=0.5, deg=2, gamma=scale, score=0.674
+poly, C=0.5, deg=3, gamma=scale, score=0.674
+poly, C=0.5, deg=4, gamma=scale, score=0.674
+poly, C=0.5, deg=5, gamma=scale, score=0.674
+poly, C=0.5, deg=6, gamma=scale, score=0.674
+poly, C=0.5, deg=7, gamma=scale, score=0.674
+poly, C=0.5, deg=1, gamma=auto, score=0.674
+poly, C=0.5, deg=2, gamma=auto, score=0.674
+poly, C=0.5, deg=3, gamma=auto, score=0.674
+poly, C=0.5, deg=4, gamma=auto, score=0.674
+poly, C=0.5, deg=5, gamma=auto, score=0.674
+poly, C=0.5, deg=6, gamma=auto, score=0.674
+poly, C=0.5, deg=7, gamma=auto, score=0.674
+poly, C=0.5, deg=8, gamma=auto, score=0.674
+poly, C=1, deg=1, gamma=scale, score=0.674
+poly, C=1, deg=2, gamma=scale, score=0.674
+poly, C=1, deg=3, gamma=scale, score=0.674
+poly, C=1, deg=4, gamma=scale, score=0.674
+poly, C=1, deg=5, gamma=scale, score=0.674
+poly, C=1, deg=6, gamma=scale, score=0.674
+poly, C=1, deg=7, gamma=scale, score=0.674
+poly, C=1, deg=1, gamma=auto, score=0.674
+poly, C=1, deg=2, gamma=auto, score=0.674
+poly, C=1, deg=3, gamma=auto, score=0.674
+poly, C=1, deg=4, gamma=auto, score=0.674
+poly, C=1, deg=5, gamma=auto, score=0.674
+poly, C=1, deg=6, gamma=auto, score=0.674
+poly, C=1, deg=7, gamma=auto, score=0.674
+poly, C=1, deg=8, gamma=auto, score=0.674
+poly, C=2, deg=1, gamma=scale, score=0.674
+poly, C=2, deg=2, gamma=scale, score=0.674
+poly, C=2, deg=3, gamma=scale, score=0.674
+poly, C=2, deg=5, gamma=scale, score=0.674
+poly, C=2, deg=6, gamma=scale, score=0.674
+poly, C=2, deg=7, gamma=scale, score=0.674
+poly, C=2, deg=1, gamma=auto, score=0.674
+poly, C=2, deg=2, gamma=auto, score=0.674
+poly, C=2, deg=3, gamma=auto, score=0.674
+poly, C=2, deg=4, gamma=auto, score=0.674
+poly, C=2, deg=5, gamma=auto, score=0.674
+poly, C=2, deg=6, gamma=auto, score=0.674
+poly, C=2, deg=7, gamma=auto, score=0.674
+poly, C=2, deg=8, gamma=auto, score=0.674
+poly, C=5, deg=1, gamma=scale, score=0.674
+poly, C=5, deg=2, gamma=scale, score=0.674
+poly, C=5, deg=3, gamma=scale, score=0.674
+poly, C=5, deg=6, gamma=scale, score=0.674
+poly, C=5, deg=7, gamma=scale, score=0.674
+poly, C=5, deg=1, gamma=auto, score=0.674
+poly, C=5, deg=2, gamma=auto, score=0.674
+poly, C=5, deg=3, gamma=auto, score=0.674
+poly, C=5, deg=4, gamma=auto, score=0.674
+poly, C=5, deg=5, gamma=auto, score=0.674
+poly, C=5, deg=6, gamma=auto, score=0.674
+poly, C=5, deg=7, gamma=auto, score=0.674
+poly, C=5, deg=8, gamma=auto, score=0.674
+poly, C=7, deg=1, gamma=scale, score=0.674
+poly, C=7, deg=2, gamma=scale, score=0.674
+poly, C=7, deg=3, gamma=scale, score=0.674
+poly, C=7, deg=1, gamma=auto, score=0.674
+poly, C=7, deg=2, gamma=auto, score=0.674
+poly, C=7, deg=3, gamma=auto, score=0.674
+poly, C=7, deg=4, gamma=auto, score=0.674
+poly, C=7, deg=5, gamma=auto, score=0.674
+poly, C=7, deg=6, gamma=auto, score=0.674
+poly, C=7, deg=7, gamma=auto, score=0.674
+poly, C=7, deg=8, gamma=auto, score=0.674
+poly, C=10, deg=1, gamma=scale, score=0.674
+poly, C=10, deg=2, gamma=scale, score=0.674
+poly, C=10, deg=3, gamma=scale, score=0.674
+poly, C=10, deg=1, gamma=auto, score=0.674
+poly, C=10, deg=2, gamma=auto, score=0.674
+poly, C=10, deg=3, gamma=auto, score=0.674
+poly, C=10, deg=4, gamma=auto, score=0.674
+poly, C=10, deg=5, gamma=auto, score=0.674
+poly, C=10, deg=6, gamma=auto, score=0.674
+poly, C=10, deg=7, gamma=auto, score=0.674
+poly, C=10, deg=8, gamma=auto, score=0.674
+poly, C=15, deg=1, gamma=scale, score=0.674
+poly, C=15, deg=2, gamma=scale, score=0.674
+poly, C=15, deg=3, gamma=scale, score=0.674
+poly, C=15, deg=6, gamma=scale, score=0.674
+poly, C=15, deg=1, gamma=auto, score=0.674
+poly, C=15, deg=2, gamma=auto, score=0.674
+poly, C=15, deg=3, gamma=auto, score=0.674
+poly, C=15, deg=4, gamma=auto, score=0.674
+poly, C=15, deg=5, gamma=auto, score=0.674
+poly, C=15, deg=6, gamma=auto, score=0.674
+poly, C=15, deg=7, gamma=auto, score=0.674
+poly, C=15, deg=8, gamma=auto, score=0.674
+poly, C=20, deg=1, gamma=scale, score=0.674
+poly, C=20, deg=2, gamma=scale, score=0.674
+poly, C=20, deg=3, gamma=scale, score=0.674
+poly, C=20, deg=1, gamma=auto, score=0.674
+poly, C=20, deg=2, gamma=auto, score=0.674
+poly, C=20, deg=3, gamma=auto, score=0.674
+poly, C=20, deg=4, gamma=auto, score=0.674
+poly, C=20, deg=5, gamma=auto, score=0.674
+poly, C=20, deg=6, gamma=auto, score=0.674
+poly, C=20, deg=7, gamma=auto, score=0.674
+poly, C=20, deg=8, gamma=auto, score=0.674
+rbf, C=0.1, gamma=scale, score=0.674
+rbf, C=0.1, gamma=auto, score=0.674
+rbf, C=0.5, gamma=auto, score=0.674
+rbf, C=1, gamma=auto, score=0.674
+rbf, C=2, gamma=auto, score=0.674
+rbf, C=5, gamma=auto, score=0.674
+rbf, C=7, gamma=auto, score=0.674
+rbf, C=10, gamma=auto, score=0.674
+sigmoid, C=0.1, gamma=scale, score=0.674
+sigmoid, C=0.1, gamma=auto, score=0.674
+sigmoid, C=0.5, gamma=auto, score=0.674
+sigmoid, C=1, gamma=auto, score=0.674
+sigmoid, C=2, gamma=auto, score=0.674
+
+poly, C=20, deg=6, gamma=scale, score=0.684
+poly, C=5, deg=4, gamma=scale, score=0.695
+poly, C=7, deg=4, gamma=scale, score=0.695
+poly, C=10, deg=4, gamma=scale, score=0.695
+poly, C=15, deg=4, gamma=scale, score=0.695
+poly, C=20, deg=4, gamma=scale, score=0.695
+rbf, C=0.5, gamma=scale, score=0.705
+poly, C=0.5, deg=8, gamma=scale, score=0.716
+poly, C=10, deg=5, gamma=scale, score=0.716
+poly, C=15, deg=5, gamma=scale, score=0.716
+poly, C=20, deg=5, gamma=scale, score=0.716
+rbf, C=20, gamma=auto, score=0.716
+rbf, C=1, gamma=scale, score=0.853
+rbf, C=2, gamma=scale, score=0.895
+rbf, C=5, gamma=scale, score=0.905
+rbf, C=7, gamma=scale, score=0.979
+rbf, C=10, gamma=scale, score=0.979
+rbf, C=15, gamma=scale, score=0.979
+rbf, C=20, gamma=scale, score=1.000
